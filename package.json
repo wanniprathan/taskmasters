@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanniprathan/taskmasters.git"
+  },
+  "author": "Wanni :)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanniprathan/taskmasters/issues"
+  },
+  "homepage": "https://github.com/wanniprathan/taskmasters#readme",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  }
+}
